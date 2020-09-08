@@ -1,2 +1,2 @@
 # JSONExample
-Json can enable communcation between computers, while xml can provide human friendly usage.
+Json can enable a easier communcation between computers, while xml can provide human friendly usage.
